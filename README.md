@@ -15,4 +15,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArisAachen&repo=deepin-network-proxy)](https://github.com/ArisAachen/deepin-network-proxy)   
 
 **开发环境:**    
-Macos + docker + docker-mac-net-connect + vscode 
+Macos + docker + docker-mac-net-connect + neovim 
